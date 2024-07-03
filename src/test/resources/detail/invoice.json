@@ -1,0 +1,14 @@
+{
+  "quantity":5,
+  "price": 5.5,
+  "subTotal": 15.5,
+  "client":
+  {
+    "id":1
+  },
+  "product":
+  {
+    "id": 1
+  }
+
+}
